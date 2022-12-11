@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header {
+  @apply bg-gray-200;
+}
+
+.main {
+  @apply bg-gray-100;
+}
+
+.footer {
+  @apply bg-gray-200;
+}
